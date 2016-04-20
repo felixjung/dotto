@@ -1,7 +1,7 @@
 {
   "name": "dotto",
   "version": "1.0.0",
-  "description": "A module for helping with setting up dotfiles.",
+  "description": "A node module helping you with setting up your dotfiles.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
