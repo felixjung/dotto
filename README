@@ -1,5 +1,9 @@
 Dotto helps you setting up your dotfiles using Node.js.
 
+# Requirements
+
+Dotto uses ES2015 features and requires Node.js ^5.x.x.
+
 # Installation
 
 You need to install Dotto as a global npm module by running
