@@ -1,6 +1,6 @@
 {
   "name": "dotto",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A node module helping you with setting up your dotfiles.",
   "main": "index.js",
   "scripts": {
